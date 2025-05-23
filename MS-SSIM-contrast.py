@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 from tqdm.auto import tqdm
 
 # 参数设置
-DATABASE_PATH = r"D:\TaoWeiHao\ALBK_Template\ALBK_25-35_0.1"  # 模板库路径
-QUERY_IMAGE_PATH = r"D:\TaoWeiHao\SSIM\test\30.0_noise0.30.jpg"  # 待查询图像路径
+DATABASE_PATH = 
+QUERY_IMAGE_PATH = 
 NUM_SCALES = 5  # MS-SSIM尺度数
 CONTRASTIVE_MARGIN = 0.15  # 对比学习边界值
 LEARNING_RATE = 0.003  # 学习率
